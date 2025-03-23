@@ -10,3 +10,4 @@
 - [2960](https://leetcode.cn/problems/count-tested-devices-after-test-operations/description/). 统计已测试设备
 - [1094](https://leetcode.cn/problems/car-pooling/description/). 拼车
 - [1109](https://leetcode.cn/problems/corporate-flight-bookings/description/). 航班预订统计
+- [3355](https://leetcode.cn/problems/zero-array-transformation-i/description/). 零数组变换 I
