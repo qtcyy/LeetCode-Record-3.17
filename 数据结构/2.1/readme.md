@@ -5,3 +5,5 @@
 **题目列表**
 
 - [2848](https://leetcode.cn/problems/points-that-intersect-with-cars/description/). 与车相交的点
+- [1893](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/description/). 检查是否区域内所有整数都被覆盖
+- [1854](https://leetcode.cn/problems/maximum-population-year/description/). 人口最多的年份
