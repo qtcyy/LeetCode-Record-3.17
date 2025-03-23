@@ -14,3 +14,4 @@
 - [56](https://leetcode.cn/problems/merge-intervals/description/). 合并区间
 - [57](https://leetcode.cn/problems/insert-interval/description/). 插入区间
 - [2406](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/description/). 将区间分为最少组数
+- [1589](https://leetcode.cn/problems/maximum-sum-obtained-of-any-permutation/description/). 所有排列中的最大和
