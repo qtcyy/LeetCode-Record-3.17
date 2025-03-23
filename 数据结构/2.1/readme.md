@@ -13,3 +13,4 @@
 - [3355](https://leetcode.cn/problems/zero-array-transformation-i/description/). 零数组变换 I
 - [56](https://leetcode.cn/problems/merge-intervals/description/). 合并区间
 - [57](https://leetcode.cn/problems/insert-interval/description/). 插入区间
+- [2406](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/description/). 将区间分为最少组数
