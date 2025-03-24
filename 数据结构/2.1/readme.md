@@ -19,3 +19,5 @@
 - [1943](https://leetcode.cn/problems/describe-the-painting/description/). 描述绘画结果
 - [3362](https://leetcode.cn/problems/zero-array-transformation-iii/description/). 零数组变换 III
 - [370](https://leetcode.cn/problems/range-addition/description/). 区间加法
+- [1989](https://leetcode.cn/problems/maximum-number-of-people-that-can-be-caught-in-tag/description/). 捉迷藏中可捕获的最大人数
+- [2021](https://leetcode.cn/problems/brightest-position-on-street/description/). 街上最亮的位置
