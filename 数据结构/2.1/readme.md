@@ -18,3 +18,4 @@
 - [3356](https://leetcode.cn/problems/zero-array-transformation-ii/description/). 零数组变换 II
 - [1943](https://leetcode.cn/problems/describe-the-painting/description/). 描述绘画结果
 - [3362](https://leetcode.cn/problems/zero-array-transformation-iii/description/). 零数组变换 III
+- [370](https://leetcode.cn/problems/range-addition/description/). 区间加法
