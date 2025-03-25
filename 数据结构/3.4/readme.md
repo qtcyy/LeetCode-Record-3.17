@@ -7,3 +7,4 @@
 - [1614](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/description/). 括号的最大嵌套深度
 - [1190](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/description/). 反转每对括号间的子串
 - [856](https://leetcode.cn/problems/score-of-parentheses/description/). 括号的分数
+- [678](https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses/description/). 有效的括号字符串
