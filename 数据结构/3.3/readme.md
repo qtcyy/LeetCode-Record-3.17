@@ -12,3 +12,4 @@
 - [735](https://leetcode.cn/problems/asteroid-collision/description/). 小行星碰撞
 - [1717](https://leetcode.cn/problems/maximum-score-from-removing-substrings/description/). 删除子字符串的最大得分
 - [2197](https://leetcode.cn/problems/replace-non-coprime-numbers-in-array/description/). 替换数组中的非互质数
+- [1963](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/). 使字符串平衡的最小交换次数
