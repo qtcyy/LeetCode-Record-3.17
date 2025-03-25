@@ -9,3 +9,4 @@
 - [3066](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/description/). 超过阈值的最少操作数 II
 - [1962](https://leetcode.cn/problems/remove-stones-to-minimize-the-total/description/). 移除石子使总数最小
 - [3275](https://leetcode.cn/problems/k-th-nearest-obstacle-queries/description/). 第 K 近障碍物查询
+- [2208](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/description/). 将数组和减半的最少操作次数
