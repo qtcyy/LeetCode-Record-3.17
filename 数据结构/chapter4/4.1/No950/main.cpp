@@ -1,10 +1,23 @@
+#include <algorithm>
+#include <deque>
 #include <iostream>
 #include <vector>
 using namespace std;
 
 class Solution {
 public:
-  vector<int> deckRevealedIncreasing(vector<int> &deck) {}
+  vector<int> deckRevealedIncreasing(vector<int> &deck) {
+    sort(deck.rbegin(), deck.rend());
+    deque<int> dq{deck[0]};
+    int n = deck.size();
+    for (int i = 1; i < n; i++) {
+      dq.push_front(dq.back());
+      dq.pop_back();
+      dq.push_front(deck[i]);
+    }
+
+    return vector<int>(dq.begin(), dq.end());
+  }
 };
 
 signed main() {
