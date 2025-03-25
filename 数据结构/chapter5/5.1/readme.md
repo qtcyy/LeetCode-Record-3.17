@@ -10,3 +10,4 @@
 - [1962](https://leetcode.cn/problems/remove-stones-to-minimize-the-total/description/). 移除石子使总数最小
 - [3275](https://leetcode.cn/problems/k-th-nearest-obstacle-queries/description/). 第 K 近障碍物查询
 - [2208](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/description/). 将数组和减半的最少操作次数
+- [2233](https://leetcode.cn/problems/maximum-product-after-k-increments/description/). K 次增加后的最大乘积
