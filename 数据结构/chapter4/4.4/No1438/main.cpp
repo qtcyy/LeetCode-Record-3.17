@@ -1,10 +1,37 @@
+#include <deque>
 #include <iostream>
 #include <vector>
 using namespace std;
 
 class Solution {
 public:
-  int longestSubarray(vector<int> &nums, int limit) {}
+  int longestSubarray(vector<int> &nums, int limit) {
+    int n = nums.size();
+    deque<int> deqmn, deqmx;
+    int left = 0, ans = 0;
+    for (int i = 0; i < n; i++) {
+      while (!deqmn.empty() && nums[deqmn.back()] > nums[i]) {
+        deqmn.pop_back();
+      }
+      while (!deqmx.empty() && nums[deqmx.back()] < nums[i]) {
+        deqmx.pop_back();
+      }
+      deqmn.push_back(i);
+      deqmx.push_back(i);
+      while (!deqmn.empty() && !deqmx.empty() &&
+             nums[deqmx.front()] - nums[deqmn.front()] > limit) {
+        if (nums[left] == nums[deqmn.front()]) {
+          deqmn.pop_front();
+        }
+        if (nums[left] == nums[deqmx.front()]) {
+          deqmx.pop_front();
+        }
+        left++;
+      }
+      ans = max(ans, i - left + 1);
+    }
+    return ans;
+  }
 };
 
 signed main() {
