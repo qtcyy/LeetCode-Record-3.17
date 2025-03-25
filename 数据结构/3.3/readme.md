@@ -10,3 +10,4 @@
 - [1209](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-ii/description/). 删除字符串中的所有相邻重复项 II
 - [2211](https://leetcode.cn/problems/count-collisions-on-a-road/description/). 统计道路上的碰撞次数
 - [735](https://leetcode.cn/problems/asteroid-collision/description/). 小行星碰撞
+- [1717](https://leetcode.cn/problems/maximum-score-from-removing-substrings/description/). 删除子字符串的最大得分
