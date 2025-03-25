@@ -11,3 +11,4 @@
 - [3275](https://leetcode.cn/problems/k-th-nearest-obstacle-queries/description/). 第 K 近障碍物查询
 - [2208](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/description/). 将数组和减半的最少操作次数
 - [2233](https://leetcode.cn/problems/maximum-product-after-k-increments/description/). K 次增加后的最大乘积
+- [3296](https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/). 移山所需的最少秒数
