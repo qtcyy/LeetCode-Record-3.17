@@ -3,3 +3,4 @@
 **题目列表**
 
 - [921](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/description/). 使括号有效的最少添加
+- [1021](https://leetcode.cn/problems/remove-outermost-parentheses/description/). 删除最外层的括号
