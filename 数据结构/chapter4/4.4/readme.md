@@ -7,6 +7,7 @@
 - [2762](https://leetcode.cn/problems/continuous-subarrays/description/). 不间断子数组
 - [2398](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/description/). 预算内的最多机器人数目
 - [862](https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/description/). 和至少为 K 的最短子数组
+- [2071](https://leetcode.cn/problems/maximum-number-of-tasks-you-can-assign/description/). 你可以安排的最多任务数目
 
 ## 做题总结
 
@@ -21,3 +22,5 @@ while (!deq.empty() && [conditions]){
     left++;
 }
 ```
+
+No862 也用到了这种写法
