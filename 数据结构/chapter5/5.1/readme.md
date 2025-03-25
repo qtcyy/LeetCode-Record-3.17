@@ -6,3 +6,4 @@
 - [3264](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/description/). K 次乘运算后的最终数组 I
 - [2558](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/description/). 从数量最多的堆取走礼物
 - [2530](https://leetcode.cn/problems/maximal-score-after-applying-k-operations/description/). 执行 K 次操作后的最大分数
+- [3066](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/description/). 超过阈值的最少操作数 II
