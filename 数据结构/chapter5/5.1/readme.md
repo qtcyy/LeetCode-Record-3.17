@@ -18,3 +18,4 @@
 - [1834](https://leetcode.cn/problems/single-threaded-cpu/description/). 单线程 CPU
 - [3478](https://leetcode.cn/problems/choose-k-elements-with-maximum-sum/description/). 选出和最大的 K 个元素
 - [1167](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/description/). 连接木棍的最低费用
+- [2402](https://leetcode.cn/problems/meeting-rooms-iii/description/). 会议室 III
