@@ -15,3 +15,4 @@
 - [1942](https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair/description/). 最小未被占据椅子的编号
 - [2462](https://leetcode.cn/problems/total-cost-to-hire-k-workers/description/). 雇佣 K 位工人的总代价
 - [1801](https://leetcode.cn/problems/number-of-orders-in-the-backlog/description/). 积压订单中的订单总数
+- [1834](https://leetcode.cn/problems/single-threaded-cpu/description/). 单线程 CPU
