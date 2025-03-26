@@ -16,3 +16,4 @@
 - [2462](https://leetcode.cn/problems/total-cost-to-hire-k-workers/description/). 雇佣 K 位工人的总代价
 - [1801](https://leetcode.cn/problems/number-of-orders-in-the-backlog/description/). 积压订单中的订单总数
 - [1834](https://leetcode.cn/problems/single-threaded-cpu/description/). 单线程 CPU
+- [3478](https://leetcode.cn/problems/choose-k-elements-with-maximum-sum/description/). 选出和最大的 K 个元素
