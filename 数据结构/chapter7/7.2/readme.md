@@ -8,3 +8,4 @@
 - [947. 移除最多的同行或同列石头](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/description/)
 - [839. 相似字符串组](https://leetcode.cn/problems/similar-string-groups/description/)
 - [1970. 你能穿过矩阵的最后一天](https://leetcode.cn/problems/last-day-where-you-can-still-cross/description/)
+- [2076. 处理含限制条件的好友请求](https://leetcode.cn/problems/process-restricted-friend-requests/description/)
