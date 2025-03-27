@@ -14,3 +14,4 @@
 - [1176. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/description/)
 - [1100. 长度为 K 的无重复字符子串](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/description/)
 - [1852. 每个子数组的数字种类数](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/description/)
+- [1151. 最少交换次数来组合所有的 1](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together/description/)
