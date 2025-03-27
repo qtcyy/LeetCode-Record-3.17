@@ -10,3 +10,4 @@
 - [2841. 几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/description/)
 - [2461. 长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
 - [1423. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/)
+- [1052. 爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/description/)
