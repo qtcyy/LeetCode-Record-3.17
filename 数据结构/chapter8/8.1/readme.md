@@ -6,6 +6,7 @@
 - [3187. 数组中的峰值](https://leetcode.cn/problems/peaks-in-array/description/)
 - [1649. 通过指令创建有序数组](https://leetcode.cn/problems/create-sorted-array-through-instructions/description/)
 - [1409. 查询带键的排列](https://leetcode.cn/problems/queries-on-a-permutation-with-key/)
+- [3109. 查找排列的下标](https://leetcode.cn/problems/find-the-index-of-permutation/description/)
 
 **做题总结**
 
