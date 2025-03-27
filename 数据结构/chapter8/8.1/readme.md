@@ -4,6 +4,7 @@
 
 - [307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/description/)
 - [3187. 数组中的峰值](https://leetcode.cn/problems/peaks-in-array/description/)
+- [1649. 通过指令创建有序数组](https://leetcode.cn/problems/create-sorted-array-through-instructions/description/)
 
 **做题总结**
 
