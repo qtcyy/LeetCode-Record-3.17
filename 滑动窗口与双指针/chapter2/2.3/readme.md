@@ -13,3 +13,13 @@
 - [3325. 字符至少出现 K 次的子字符串 I](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-i/description/)
 - [2799. 统计完全子数组的数目](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/description/)
 - [2537. 统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/description/)
+
+# 2.3.2 越短越合法
+
+一般要写 ans += right - left + 1。
+
+滑动窗口的内层循环结束时，右端点固定在 right，左端点在 left,left+1,…,right 的所有子数组（子串）都是合法的，这一共有 right−left+1 个。
+
+**题目列表**
+
+- [713. 乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/description/)
