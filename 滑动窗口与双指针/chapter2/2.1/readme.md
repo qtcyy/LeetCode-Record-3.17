@@ -11,3 +11,4 @@
 - [1208. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/description/)
 - [904. 水果成篮 ](https://leetcode.cn/problems/fruit-into-baskets/description/)
 - [1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/description/)
+- [2958. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
