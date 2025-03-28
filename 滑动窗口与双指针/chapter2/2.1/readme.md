@@ -12,3 +12,4 @@
 - [904. 水果成篮 ](https://leetcode.cn/problems/fruit-into-baskets/description/)
 - [1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/description/)
 - [2958. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
+- [2024. 考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/)
