@@ -25,3 +25,4 @@
 - [1838. 最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/description/)
 - [2516. 每种字符至少取 K 个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/description/)
 - [2831. 找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/)
+- [2271. 毯子覆盖的最多白色砖块数](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/description/)
