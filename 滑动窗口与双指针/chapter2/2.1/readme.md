@@ -1,0 +1,9 @@
+# 2.1 求最长/最大
+
+一般题目都有「至多」的要求。
+
+## 2.1.1 基础
+
+**题目列表**
+
+- [3090. 每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/description/)
