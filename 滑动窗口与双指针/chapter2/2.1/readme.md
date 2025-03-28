@@ -24,3 +24,4 @@
 - [2779. 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/description/)
 - [1838. 最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/description/)
 - [2516. 每种字符至少取 K 个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/description/)
+- [2831. 找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/)
