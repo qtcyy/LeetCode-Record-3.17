@@ -27,3 +27,4 @@
 - [2831. 找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/)
 - [2271. 毯子覆盖的最多白色砖块数](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/description/)
 - [2106. 摘水果](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)
+- [2555. 两个线段获得的最多奖品](https://leetcode.cn/problems/maximize-win-from-two-segments/description/)
