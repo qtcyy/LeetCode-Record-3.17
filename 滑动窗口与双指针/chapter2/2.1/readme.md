@@ -15,3 +15,9 @@
 - [2024. 考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/)
 - [1004. 最大连续 1 的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/description/)
 - [1658. 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/description/)
+
+## 2.1.2 进阶
+
+**题目列表**
+
+- [2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/description/)
