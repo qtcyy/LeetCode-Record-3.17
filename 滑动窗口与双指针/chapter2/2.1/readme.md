@@ -31,3 +31,20 @@
 - [2009. 使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 - [487. 最大连续 1 的个数 II](https://leetcode.cn/problems/max-consecutive-ones-ii/description/)
 - [159. 至多包含两个不同字符的最长子串](https://leetcode.cn/problems/longest-substring-with-at-most-two-distinct-characters/description/)
+
+## 做题总结
+
+枚举右指针，维护左指针。有着独特的写法
+
+```cpp
+for (int i = 0; i < n; i++) {
+    //process i
+    //维护left
+    while ([condition]){
+        //process left
+        ++left;
+    }
+    // 更新答案
+    ans = max(ans,i - left + 1);
+}
+```
