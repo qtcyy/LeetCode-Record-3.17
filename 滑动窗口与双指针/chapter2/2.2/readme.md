@@ -3,3 +3,4 @@
 **题目列表**
 
 - [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/description/)
+- [2904. 最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)
