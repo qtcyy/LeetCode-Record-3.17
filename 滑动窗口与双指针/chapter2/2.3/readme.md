@@ -45,3 +45,4 @@
 **题目列表**
 
 - [1248. 统计「优美子数组」](https://leetcode.cn/problems/count-number-of-nice-subarrays/description/)
+- [3306. 元音辅音字符串计数 II](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
