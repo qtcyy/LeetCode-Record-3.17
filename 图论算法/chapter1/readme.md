@@ -14,3 +14,4 @@
 - [802. 找到最终的安全状态](https://leetcode.cn/problems/find-eventual-safe-states/description/)
 - [2101. 引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs/)
 - [928. 尽量减少恶意软件的传播 II](https://leetcode.cn/problems/minimize-malware-spread-ii/description/)
+- [261. 以图判树](https://leetcode.cn/problems/graph-valid-tree/description/)
