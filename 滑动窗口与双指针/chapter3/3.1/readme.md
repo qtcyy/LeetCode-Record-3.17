@@ -16,3 +16,4 @@
 - [18. 四数之和](https://leetcode.cn/problems/4sum/description/)
 - [611. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/description/)
 - [1577. 数的平方等于两数乘积的方法数](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/)
+- [923. 三数之和的多种可能](https://leetcode.cn/problems/3sum-with-multiplicity/description/)
