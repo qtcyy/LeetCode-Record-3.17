@@ -8,3 +8,4 @@
 - [1319. 连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/description/)
 - [2492. 两个城市间路径的最小分数](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/description/)
 - [3310. 移除可疑的方法](https://leetcode.cn/problems/remove-methods-from-project/description/)
+- [2685. 统计完全连通分量的数量](https://leetcode.cn/problems/count-the-number-of-complete-components/description/)
