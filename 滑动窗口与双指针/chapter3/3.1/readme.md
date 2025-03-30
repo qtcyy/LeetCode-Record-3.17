@@ -11,3 +11,4 @@
 - [1471. 数组中的 K 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/description/)
 - [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/)
 - [633. 平方数之和](https://leetcode.cn/problems/sum-of-square-numbers/description/)
+- [2824. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/description/)
