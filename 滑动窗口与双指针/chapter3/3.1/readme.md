@@ -10,3 +10,4 @@
 - [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
 - [1471. 数组中的 K 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/description/)
 - [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/)
+- [633. 平方数之和](https://leetcode.cn/problems/sum-of-square-numbers/description/)
