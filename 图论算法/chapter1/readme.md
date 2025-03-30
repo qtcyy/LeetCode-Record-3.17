@@ -11,3 +11,4 @@
 - [2685. 统计完全连通分量的数量](https://leetcode.cn/problems/count-the-number-of-complete-components/description/)
 - [2192. 有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
 - [924. 尽量减少恶意软件的传播](https://leetcode.cn/problems/minimize-malware-spread/description/)
+- [802. 找到最终的安全状态](https://leetcode.cn/problems/find-eventual-safe-states/description/)
