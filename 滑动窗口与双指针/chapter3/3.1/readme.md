@@ -5,3 +5,4 @@
 **题目列表**
 
 - [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/description/)
+- [1750. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/description/)
