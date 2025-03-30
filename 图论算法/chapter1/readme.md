@@ -9,3 +9,4 @@
 - [2492. 两个城市间路径的最小分数](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/description/)
 - [3310. 移除可疑的方法](https://leetcode.cn/problems/remove-methods-from-project/description/)
 - [2685. 统计完全连通分量的数量](https://leetcode.cn/problems/count-the-number-of-complete-components/description/)
+- [2192. 有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
