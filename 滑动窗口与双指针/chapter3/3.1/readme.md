@@ -14,3 +14,4 @@
 - [2824. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/description/)
 - [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/description/)
 - [18. 四数之和](https://leetcode.cn/problems/4sum/description/)
+- [611. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/description/)
