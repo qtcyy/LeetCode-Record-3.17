@@ -5,3 +5,4 @@
 **题目列表**
 
 - [1135. 最低成本连通所有城市](https://leetcode.cn/problems/connecting-cities-with-minimum-cost/description/)
+- [1168. 水资源分配优化](https://leetcode.cn/problems/optimize-water-distribution-in-a-village/description/)
