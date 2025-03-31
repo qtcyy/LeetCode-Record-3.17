@@ -11,3 +11,4 @@
 - [2714. 找到最短路径的 K 次跨越](https://leetcode.cn/problems/find-shortest-path-with-k-hops/description/)
 - [1928. 规定时间内到达终点的最小花费](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/description/)
 - [787. K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops/description/)
+- [LCP 35. 电动车游城市](https://leetcode.cn/problems/DFPeFJ/description/)
