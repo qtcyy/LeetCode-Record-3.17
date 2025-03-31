@@ -16,7 +16,7 @@ public:
     vector<vector<pair<int, int>>> g(n);
     for (auto &p : edges) {
       g[p[0]].emplace_back(p[1], p[2]);
-      g[p[1]].emplace_back(p[0], p[1]);
+      g[p[1]].emplace_back(p[0], p[2]);
     }
     vector<vector<int>> dis(n, vector<int>(maxTime + 1, INT_MAX));
     priority_queue<TPL, vector<TPL>, greater<>> q;
