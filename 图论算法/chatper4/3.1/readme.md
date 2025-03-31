@@ -7,3 +7,4 @@
 - [3123. 最短路径中的边](https://leetcode.cn/problems/find-edges-in-shortest-paths/description/)
 - [1976. 到达目的地的方案数](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/description/)
 - [2093. 前往目标城市的最小费用](https://leetcode.cn/problems/minimum-cost-to-reach-city-with-discounts/description/)
+- [2473. 购买苹果的最低成本](https://leetcode.cn/problems/minimum-cost-to-buy-apples/description/)
