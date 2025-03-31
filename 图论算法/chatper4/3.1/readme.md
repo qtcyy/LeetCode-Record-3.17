@@ -3,3 +3,4 @@
 **题目列表**
 
 - [3112. 访问消失节点的最少时间](https://leetcode.cn/problems/minimum-time-to-visit-disappearing-nodes/description/)
+- [1514. 概率最大的路径](https://leetcode.cn/problems/path-with-maximum-probability/description/)
