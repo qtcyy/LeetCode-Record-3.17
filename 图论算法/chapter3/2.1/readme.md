@@ -8,3 +8,4 @@
 - [851. 喧闹和富有](https://leetcode.cn/problems/loud-and-rich/description/)
 - [1059. 从始点到终点的所有路径](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/description/)
 - [1136. 并行课程](https://leetcode.cn/problems/parallel-courses/description/)
+- [LCR113. 课程表 II](https://leetcode.cn/problems/QA2IGt/description/?envType=problem-list-v2&envId=topological-sort)
