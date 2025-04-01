@@ -6,3 +6,4 @@
 - [1952. 三除数](https://leetcode.cn/problems/three-divisors/description/)
 - [1492. n 的第 k 个因子](https://leetcode.cn/problems/the-kth-factor-of-n/description/)
 - [507. 完美数](https://leetcode.cn/problems/perfect-number/description/)
+- [1390. 四因数](https://leetcode.cn/problems/four-divisors/description/)
