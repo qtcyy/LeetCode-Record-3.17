@@ -1,0 +1,6 @@
+# 1.3 质因数分解
+
+**题目列表**
+
+- [2507. 使用质因数之和替换后可以取到的最小值](https://leetcode.cn/problems/smallest-value-after-replacing-with-sum-of-prime-factors/description/)
+- [3326. 使数组非递减的最少除法操作次数](https://leetcode.cn/problems/minimum-division-operations-to-make-array-non-decreasing/description/)
