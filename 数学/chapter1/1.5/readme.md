@@ -10,3 +10,4 @@
 - [1362. 最接近的因数](https://leetcode.cn/problems/closest-divisors/description/)
 - [829. 连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/solutions/1249508/mo-ao-shu-xue-gong-shi-gao-si-qiu-he-gon-mban/)
 - [2198. 单因数三元组](https://leetcode.cn/problems/number-of-single-divisor-triplets/description/)
+- [625. 最小因式分解](https://leetcode.cn/problems/minimum-factorization/description/)
