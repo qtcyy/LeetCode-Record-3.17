@@ -13,3 +13,4 @@
 - [2607. 使子数组元素和相等](https://leetcode.cn/problems/make-k-subarray-sums-equal/description/)
 - [2447. 最大公因数等于 K 的子数组数目](https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k/description/)
 - [2183. 统计可以被 K 整除的下标对数目](https://leetcode.cn/problems/count-array-pairs-divisible-by-k/description/)
+- [2436. 使子数组最大公约数大于一的最小分割数](https://leetcode.cn/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/description/)
