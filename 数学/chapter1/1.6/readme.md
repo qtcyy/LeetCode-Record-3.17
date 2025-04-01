@@ -5,3 +5,4 @@
 - [1979. 找出数组的最大公约数](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/description/)
 - [2807. 在链表中插入最大公约数](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/description/)
 - [914. 卡牌分组](https://leetcode.cn/problems/x-of-a-kind-in-a-deck-of-cards/description/)
+- [1071. 字符串的最大公因子](https://leetcode.cn/problems/greatest-common-divisor-of-strings/description/)
