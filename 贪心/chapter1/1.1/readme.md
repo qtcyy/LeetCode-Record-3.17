@@ -16,3 +16,4 @@
 - [1338. 数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/description/)
 - [1710. 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/description/)
 - [3075. 幸福值最大化的选择方案](https://leetcode.cn/problems/maximize-happiness-of-selected-children/description/)
+- [2554. 从一个范围内选择最多整数 I](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/)
