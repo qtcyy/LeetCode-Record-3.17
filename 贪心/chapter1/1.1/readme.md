@@ -10,3 +10,4 @@
 - [2279. 装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 - [1833. 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars/description/)
 - [1005. K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/description/)
+- [1481. 不同整数的最少数目](https://leetcode.cn/problems/least-number-of-unique-integers-after-k-removals/description/)
