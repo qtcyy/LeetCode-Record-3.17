@@ -12,3 +12,4 @@
 - [1005. K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/description/)
 - [1481. 不同整数的最少数目](https://leetcode.cn/problems/least-number-of-unique-integers-after-k-removals/description/)
 - [1403. 非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/description/)
+- [3010. 将数组分成最小总代价的子数组 I ](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
