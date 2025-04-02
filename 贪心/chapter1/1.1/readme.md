@@ -8,3 +8,4 @@
 
 - [3074. 重新分装苹果](https://leetcode.cn/problems/apple-redistribution-into-boxes/description/)
 - [2279. 装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/description/)
+- [1833. 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars/description/)
