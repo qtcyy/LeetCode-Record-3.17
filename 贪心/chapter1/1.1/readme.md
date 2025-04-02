@@ -20,3 +20,4 @@
 - [2126. 摧毁小行星](https://leetcode.cn/problems/destroying-asteroids/description/)
 - [2587. 重排数组以得到最大前缀分数](https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score/description/)
 - [976. 三角形的最大周长](https://leetcode.cn/problems/largest-perimeter-triangle/description/)
+- [1561. 你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/description/)
