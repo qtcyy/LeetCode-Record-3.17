@@ -14,3 +14,4 @@
 - [1403. 非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/description/)
 - [3010. 将数组分成最小总代价的子数组 I ](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
 - [1338. 数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/description/)
+- [1710. 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/description/)
