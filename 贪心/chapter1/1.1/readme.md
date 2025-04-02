@@ -15,3 +15,4 @@
 - [3010. 将数组分成最小总代价的子数组 I ](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
 - [1338. 数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/description/)
 - [1710. 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/description/)
+- [3075. 幸福值最大化的选择方案](https://leetcode.cn/problems/maximize-happiness-of-selected-children/description/)
