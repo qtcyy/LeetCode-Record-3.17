@@ -31,3 +31,4 @@
 - [2567. 修改两个元素的最小分数](https://leetcode.cn/problems/minimum-score-by-changing-two-elements/description/)
 - [1509. 三次操作后最大值与最小值的最小差](https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 - [3397. 执行操作后不同元素的最大数量](https://leetcode.cn/problems/maximum-number-of-distinct-elements-after-operations/description/)
+- [3457. 吃披萨](https://leetcode.cn/problems/eat-pizzas/description/)
