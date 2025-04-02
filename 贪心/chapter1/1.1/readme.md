@@ -19,3 +19,4 @@
 - [2554. 从一个范围内选择最多整数 I](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/)
 - [2126. 摧毁小行星](https://leetcode.cn/problems/destroying-asteroids/description/)
 - [2587. 重排数组以得到最大前缀分数](https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score/description/)
+- [976. 三角形的最大周长](https://leetcode.cn/problems/largest-perimeter-triangle/description/)
