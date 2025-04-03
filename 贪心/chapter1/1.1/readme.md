@@ -36,3 +36,4 @@
 - [3440. 重新安排会议得到最多空余时间 II](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-ii/description/)
 - [1196. 最多可以买到的苹果数量](https://leetcode.cn/problems/how-many-apples-can-you-put-into-the-basket/description/)
 - [2214. 通关游戏所需的最低生命值](https://leetcode.cn/problems/minimum-health-to-beat-game/description/)
+- [3476. 最大化任务分配的利润](https://leetcode.cn/problems/maximize-profit-from-task-assignment/description/)
