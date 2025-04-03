@@ -39,3 +39,4 @@
 - [3476. 最大化任务分配的利润](https://leetcode.cn/problems/maximize-profit-from-task-assignment/description/)
 - [2098. 长度为 K 的最大偶数和子序列](https://leetcode.cn/problems/subsequence-of-size-k-with-the-largest-even-sum/description/)
 - [3119. 最大数量的可修复坑洼](https://leetcode.cn/problems/maximum-number-of-potholes-that-can-be-fixed/description/)
+- [2557. 从一个范围内选择最多整数 II](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/)
