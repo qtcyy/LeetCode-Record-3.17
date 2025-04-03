@@ -37,3 +37,4 @@
 - [1196. 最多可以买到的苹果数量](https://leetcode.cn/problems/how-many-apples-can-you-put-into-the-basket/description/)
 - [2214. 通关游戏所需的最低生命值](https://leetcode.cn/problems/minimum-health-to-beat-game/description/)
 - [3476. 最大化任务分配的利润](https://leetcode.cn/problems/maximize-profit-from-task-assignment/description/)
+- [2098. 长度为 K 的最大偶数和子序列](https://leetcode.cn/problems/subsequence-of-size-k-with-the-largest-even-sum/description/)
