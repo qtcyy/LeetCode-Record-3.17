@@ -13,7 +13,7 @@ class Solution:
                 break
         if not flag and not flag2:
             return False
-        return Truegi
+        return True
 
 
 def main():
