@@ -7,3 +7,4 @@
 - [2750. 将数组划分成若干好子数组的方式](https://leetcode.cn/problems/ways-to-split-array-into-good-subarrays/description/)
 - [2550. 猴子碰撞的方法数](https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon/description/)
 - [1922. 统计好数字的数目](https://leetcode.cn/problems/count-good-numbers/description/)
+- [2147. 分隔长廊的方案数](https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor/description/)
