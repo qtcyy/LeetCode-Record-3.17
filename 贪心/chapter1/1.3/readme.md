@@ -10,3 +10,4 @@
 - [870. 优势洗牌](https://leetcode.cn/problems/advantage-shuffle/description/)
 - [826. 安排工作以达到最大收益](https://leetcode.cn/problems/most-profit-assigning-work/description/)
 - [2449. 使数组相似的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/description/)
+- [2323. 完成所有工作的最短时间 II](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs-ii/description/)
