@@ -9,3 +9,4 @@
 - [1922. 统计好数字的数目](https://leetcode.cn/problems/count-good-numbers/description/)
 - [2147. 分隔长廊的方案数](https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor/description/)
 - [2963. 统计好分割方案的数目](https://leetcode.cn/problems/count-the-number-of-good-partitions/description/)
+- [2450. 应用操作后不同二进制字符串的数量](https://leetcode.cn/problems/number-of-distinct-binary-strings-after-applying-operations/description/)
