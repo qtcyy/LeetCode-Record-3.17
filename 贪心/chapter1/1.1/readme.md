@@ -38,3 +38,4 @@
 - [2214. 通关游戏所需的最低生命值](https://leetcode.cn/problems/minimum-health-to-beat-game/description/)
 - [3476. 最大化任务分配的利润](https://leetcode.cn/problems/maximize-profit-from-task-assignment/description/)
 - [2098. 长度为 K 的最大偶数和子序列](https://leetcode.cn/problems/subsequence-of-size-k-with-the-largest-even-sum/description/)
+- [3119. 最大数量的可修复坑洼](https://leetcode.cn/problems/maximum-number-of-potholes-that-can-be-fixed/description/)
