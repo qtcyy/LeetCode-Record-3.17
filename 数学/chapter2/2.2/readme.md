@@ -6,3 +6,4 @@
 - [357. 统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/description/)
 - [1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/description/)
 - [3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/description/)
+- [1359. 有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/description/)
