@@ -9,3 +9,4 @@
 - [1827. 最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/description/)
 - [2027. 转换字符串的最少操作次数](https://leetcode.cn/problems/minimum-moves-to-convert-string/description/)
 - [605. 种花问题](https://leetcode.cn/problems/can-place-flowers/description/)
+- [3111. 覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points/description/)
