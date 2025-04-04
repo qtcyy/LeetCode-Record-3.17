@@ -7,3 +7,4 @@
 - [1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/description/)
 - [3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/description/)
 - [1359. 有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/description/)
+- [2400. 恰好移动 k 步到达某一位置的方法数目](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/)
