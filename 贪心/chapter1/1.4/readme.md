@@ -10,3 +10,4 @@
 - [2027. 转换字符串的最少操作次数](https://leetcode.cn/problems/minimum-moves-to-convert-string/description/)
 - [605. 种花问题](https://leetcode.cn/problems/can-place-flowers/description/)
 - [3111. 覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points/description/)
+- [2957. 消除相邻近似相等字符](https://leetcode.cn/problems/remove-adjacent-almost-equal-characters/description/)
