@@ -12,3 +12,4 @@
 - [2449. 使数组相似的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/description/)
 - [2323. 完成所有工作的最短时间 II](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs-ii/description/)
 - [1889. 装包裹的最小浪费空间](https://leetcode.cn/problems/minimum-space-wasted-from-packaging/description/)
+- [2561. 重排水果](https://leetcode.cn/problems/rearranging-fruits/description/)
