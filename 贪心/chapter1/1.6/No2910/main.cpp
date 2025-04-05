@@ -18,7 +18,7 @@ public:
     for (;; k--) {
       int ans = 0;
       for (auto &[_, c] : cnt) {
-        if (c % k && (c % (k + 1) && c % (k + 1) != k)) {
+        if (c / k < c % k) {
           ans = 0;
           break;
         }
