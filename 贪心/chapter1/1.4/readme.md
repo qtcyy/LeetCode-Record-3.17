@@ -13,3 +13,4 @@
 - [2957. 消除相邻近似相等字符](https://leetcode.cn/problems/remove-adjacent-almost-equal-characters/description/)
 - [3192. 使二进制数组全部等于 1 的最少操作次数 II](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/)
 - [2789. 合并后数组中的最大元素](https://leetcode.cn/problems/largest-element-in-an-array-after-merge-operations/description/)
+- [1529. 最少的后缀翻转次数](https://leetcode.cn/problems/minimum-suffix-flips/description/)
