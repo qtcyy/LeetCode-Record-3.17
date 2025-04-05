@@ -11,3 +11,4 @@
 - [2294. 划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/description/)
 - [2358. 分组的最大数量](https://leetcode.cn/problems/maximum-number-of-groups-entering-a-competition/description/)
 - [2522. 将字符串分割成值不超过 K 的子字符串](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k/description/)
+- [2892. 将相邻元素相乘后得到最小化数组](https://leetcode.cn/problems/minimizing-array-after-replacing-pairs-with-their-product/description/)
