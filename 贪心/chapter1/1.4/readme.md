@@ -15,3 +15,4 @@
 - [2789. 合并后数组中的最大元素](https://leetcode.cn/problems/largest-element-in-an-array-after-merge-operations/description/)
 - [1529. 最少的后缀翻转次数](https://leetcode.cn/problems/minimum-suffix-flips/description/)
 - [1144. 递减元素使数组呈锯齿状](https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/description/)
+- [3228. 将 1 移动到末尾的最大操作次数](https://leetcode.cn/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/)
