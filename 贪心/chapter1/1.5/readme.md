@@ -7,3 +7,4 @@
 **题目列表**
 
 - [1221. 分割平衡字符串](https://leetcode.cn/problems/split-a-string-in-balanced-strings/description/)
+- [2405. 子字符串的最优划分](https://leetcode.cn/problems/optimal-partition-of-string/description/)
