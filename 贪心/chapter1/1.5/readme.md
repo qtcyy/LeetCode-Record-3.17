@@ -9,3 +9,4 @@
 - [1221. 分割平衡字符串](https://leetcode.cn/problems/split-a-string-in-balanced-strings/description/)
 - [2405. 子字符串的最优划分](https://leetcode.cn/problems/optimal-partition-of-string/description/)
 - [2294. 划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/description/)
+- [2358. 分组的最大数量](https://leetcode.cn/problems/maximum-number-of-groups-entering-a-competition/description/)
