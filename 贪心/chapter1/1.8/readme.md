@@ -7,3 +7,4 @@
 **题目列表**
 
 - [2335. 装满杯子需要的最短总时长](https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/description/)
+- [1753. 移除石子的最大得分](https://leetcode.cn/problems/maximum-score-from-removing-stones/description/)
