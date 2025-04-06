@@ -11,3 +11,4 @@
 
 - [2895. 最小处理时间](https://leetcode.cn/problems/minimum-processing-time/description/)
 - [1665. 完成所有任务的最少初始能量](https://leetcode.cn/problems/minimum-initial-energy-to-finish-tasks/description/)
+- [3273. 对 Bob 造成的最少伤害](https://leetcode.cn/problems/minimum-amount-of-damage-dealt-to-bob/description/)
