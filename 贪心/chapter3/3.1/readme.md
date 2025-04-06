@@ -14,3 +14,4 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode.cn/problems/maximum-69-number/description/)
 - [3216. 交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/description/)
 - [2697. 字典序最小回文串](https://leetcode.cn/problems/lexicographically-smallest-palindrome/description/)
+- [1881. 插入后的最大值](https://leetcode.cn/problems/maximum-value-after-insertion/description/)
