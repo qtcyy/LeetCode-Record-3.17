@@ -16,3 +16,4 @@
 - [2697. 字典序最小回文串](https://leetcode.cn/problems/lexicographically-smallest-palindrome/description/)
 - [1881. 插入后的最大值](https://leetcode.cn/problems/maximum-value-after-insertion/description/)
 - [2734. 执行子串操作后的字典序最小字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-substring-operation/description/)
+- [1946. 子字符串突变后可能得到的最大整数](https://leetcode.cn/problems/largest-number-after-mutating-substring/description/)
