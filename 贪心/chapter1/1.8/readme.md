@@ -10,3 +10,4 @@
 - [1753. 移除石子的最大得分](https://leetcode.cn/problems/maximum-score-from-removing-stones/description/)
 - [1054. 距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/description/)
 - [2856. 删除数对后的最小数组长度](https://leetcode.cn/problems/minimum-array-length-after-pair-removals/description/)
+- [1953. 你可以工作的最大周数](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/)
