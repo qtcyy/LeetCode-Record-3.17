@@ -15,3 +15,4 @@
 - [3216. 交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/description/)
 - [2697. 字典序最小回文串](https://leetcode.cn/problems/lexicographically-smallest-palindrome/description/)
 - [1881. 插入后的最大值](https://leetcode.cn/problems/maximum-value-after-insertion/description/)
+- [2734. 执行子串操作后的字典序最小字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-substring-operation/description/)
