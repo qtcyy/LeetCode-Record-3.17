@@ -10,3 +10,4 @@
 **题目列表**
 
 - [2895. 最小处理时间](https://leetcode.cn/problems/minimum-processing-time/description/)
+- [1665. 完成所有任务的最少初始能量](https://leetcode.cn/problems/minimum-initial-energy-to-finish-tasks/description/)
