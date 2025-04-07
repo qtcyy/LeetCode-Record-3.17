@@ -31,3 +31,4 @@
 - [1363. 形成三的最大倍数](https://leetcode.cn/problems/largest-multiple-of-three/description/)
 - [1754. 构造字典序最大的合并字符串](https://leetcode.cn/problems/largest-merge-of-two-strings/description/)
 - [1202. 交换字符串中的元素](https://leetcode.cn/problems/smallest-string-with-swaps/description/)
+- [2434. 使用机器人打印字典序最小的字符串](https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)
