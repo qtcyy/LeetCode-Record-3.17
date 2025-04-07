@@ -24,3 +24,4 @@
 - [670. 最大交换](https://leetcode.cn/problems/maximum-swap/description/)
 - [3106. 满足距离约束且字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-operations-with-constraint/description/)
 - [1053. 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap/description/)
+- [2375. 根据模式串构造最小数字](https://leetcode.cn/problems/construct-smallest-number-from-di-string/description/)
