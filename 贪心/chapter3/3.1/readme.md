@@ -26,3 +26,4 @@
 - [1053. 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap/description/)
 - [2375. 根据模式串构造最小数字](https://leetcode.cn/problems/construct-smallest-number-from-di-string/description/)
 - [2182. 构造限制重复的字符串](https://leetcode.cn/problems/construct-string-with-repeat-limit/description/)
+- [738. 单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/description/)
