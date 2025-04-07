@@ -21,3 +21,4 @@
 - [1328. 破坏回文串](https://leetcode.cn/problems/break-a-palindrome/description/)
 - [2259. 移除指定数字得到的最大结果](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/description/)
 - [2566. 替换一个数字后的最大差值](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/description/)
+- [670. 最大交换](https://leetcode.cn/problems/maximum-swap/description/)
