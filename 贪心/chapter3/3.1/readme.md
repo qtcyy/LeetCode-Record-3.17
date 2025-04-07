@@ -19,3 +19,4 @@
 - [1946. 子字符串突变后可能得到的最大整数](https://leetcode.cn/problems/largest-number-after-mutating-substring/description/)
 - [1663. 具有给定数值的最小字符串](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value/description/)
 - [1328. 破坏回文串](https://leetcode.cn/problems/break-a-palindrome/description/)
+- [2259. 移除指定数字得到的最大结果](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/description/)
