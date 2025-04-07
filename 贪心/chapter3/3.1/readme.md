@@ -28,3 +28,4 @@
 - [2182. 构造限制重复的字符串](https://leetcode.cn/problems/construct-string-with-repeat-limit/description/)
 - [738. 单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/description/)
 - [3403. 从盒子中找出字典序最大的字符串 I](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/solutions/3033286/mei-ju-zuo-duan-dian-tan-xin-pythonjavac-y2em/)
+- [1363. 形成三的最大倍数](https://leetcode.cn/problems/largest-multiple-of-three/description/)
