@@ -23,3 +23,4 @@
 - [2566. 替换一个数字后的最大差值](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/description/)
 - [670. 最大交换](https://leetcode.cn/problems/maximum-swap/description/)
 - [3106. 满足距离约束且字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-operations-with-constraint/description/)
+- [1053. 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap/description/)
