@@ -7,3 +7,4 @@
 - [1029. 两地调度](https://leetcode.cn/problems/two-city-scheduling/description/)
 - [2645. 构造有效字符串的最少插入数](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/description/)
 - [2202. K 次操作后最大化顶端元素](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/description/)
+- [2568. 最小无法得到的或值](https://leetcode.cn/problems/minimum-impossible-or/description/)
