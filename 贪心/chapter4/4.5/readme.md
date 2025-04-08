@@ -11,3 +11,4 @@
 - [2448. 使数组相等的最小开销](https://leetcode.cn/problems/minimum-cost-to-make-array-equal/description/)
 - [1478. 安排邮筒](https://leetcode.cn/problems/allocate-mailboxes/description/)
 - [296. 最佳的碰头地点](https://leetcode.cn/problems/best-meeting-point/description/)
+- [2952. 需要添加的硬币的最小数量](https://leetcode.cn/problems/minimum-number-of-coins-to-be-added/description/)
