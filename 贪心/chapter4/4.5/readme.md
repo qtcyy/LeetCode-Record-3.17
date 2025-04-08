@@ -13,3 +13,4 @@
 - [296. 最佳的碰头地点](https://leetcode.cn/problems/best-meeting-point/description/)
 - [2952. 需要添加的硬币的最小数量](https://leetcode.cn/problems/minimum-number-of-coins-to-be-added/description/)
 - [330. 按要求补齐数组](https://leetcode.cn/problems/patching-array/description/)
+- [1798. 你能构造出连续值的最大数目](https://leetcode.cn/problems/maximum-number-of-consecutive-values-you-can-make/description/)
