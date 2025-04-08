@@ -10,3 +10,4 @@ a[0]⋅b[0]+a[1]⋅b[1]+⋯+a[n−1]⋅b[n−1]
 **题目列表**
 
 - [2285. 道路的最大总重要性](https://leetcode.cn/problems/maximum-total-importance-of-roads/description/)
+- [1402. 做菜顺序](https://leetcode.cn/problems/reducing-dishes/description/)
