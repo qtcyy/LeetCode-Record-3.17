@@ -9,3 +9,4 @@
 - [462. 最小操作次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/description/)
 - [2033. 获取单值网格的最小操作数](https://leetcode.cn/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 - [2448. 使数组相等的最小开销](https://leetcode.cn/problems/minimum-cost-to-make-array-equal/description/)
+- [1478. 安排邮筒](https://leetcode.cn/problems/allocate-mailboxes/description/)
