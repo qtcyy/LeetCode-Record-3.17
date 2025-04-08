@@ -10,3 +10,4 @@
 - [2568. 最小无法得到的或值](https://leetcode.cn/problems/minimum-impossible-or/description/)
 - [1702. 修改后的最大二进制字符串](https://leetcode.cn/problems/maximum-binary-string-after-change/description/)
 - [3012. 通过操作使数组长度最小](https://leetcode.cn/problems/minimize-length-of-array-using-operations/description/)
+- [1526. 形成目标数组的子数组最少增加次数](https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/)
