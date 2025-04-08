@@ -6,3 +6,4 @@
 - [2578. 最小和分割](https://leetcode.cn/problems/split-with-minimum-sum/description/)
 - [2244. 完成所有任务需要的最少轮数](https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/description/)
 - [1217. 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/description/)
+- [LCS 01. 下载插件](https://leetcode.cn/problems/Ju9Xwi/description/)
