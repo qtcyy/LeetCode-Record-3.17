@@ -3,3 +3,4 @@
 **题目列表**
 
 - [2745. 构造最长的新字符串](https://leetcode.cn/problems/construct-the-longest-new-string/description/)
+- [2611. 老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese/description/)
