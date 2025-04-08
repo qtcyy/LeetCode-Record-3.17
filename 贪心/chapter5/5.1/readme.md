@@ -8,3 +8,4 @@
 - [2645. 构造有效字符串的最少插入数](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/description/)
 - [2202. K 次操作后最大化顶端元素](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/description/)
 - [2568. 最小无法得到的或值](https://leetcode.cn/problems/minimum-impossible-or/description/)
+- [1702. 修改后的最大二进制字符串](https://leetcode.cn/problems/maximum-binary-string-after-change/description/)
