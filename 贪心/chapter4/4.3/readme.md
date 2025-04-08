@@ -12,3 +12,4 @@ a[0]⋅b[0]+a[1]⋅b[1]+⋯+a[n−1]⋅b[n−1]
 - [2285. 道路的最大总重要性](https://leetcode.cn/problems/maximum-total-importance-of-roads/description/)
 - [1402. 做菜顺序](https://leetcode.cn/problems/reducing-dishes/description/)
 - [2931. 购买物品的最大开销](https://leetcode.cn/problems/maximum-spending-after-buying-items/description/)
+- [1874. 两个数组的最小乘积和](https://leetcode.cn/problems/minimize-product-sum-of-two-arrays/description/)
