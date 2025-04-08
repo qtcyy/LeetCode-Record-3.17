@@ -8,3 +8,4 @@
 - [2384. 最大回文数字](https://leetcode.cn/problems/largest-palindromic-number/description/)
 - [3035. 回文字符串的最大数量](https://leetcode.cn/problems/maximum-palindromes-after-operations/description/)
 - [266. 回文排列](https://leetcode.cn/problems/palindrome-permutation/description/)
+- [1842. 下个由相同数字构成的回文串](https://leetcode.cn/problems/next-palindrome-using-same-digits/description/)
