@@ -3,3 +3,4 @@
 **题目列表**
 
 - [2160. 拆分数位后四位数字的最小和](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)
+- [2578. 最小和分割](https://leetcode.cn/problems/split-with-minimum-sum/description/)
