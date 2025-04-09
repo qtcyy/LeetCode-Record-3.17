@@ -11,3 +11,4 @@
 - [3319. 第 K 大的完美二叉子树的大小](https://leetcode.cn/problems/k-th-largest-perfect-subtree-size-in-binary-tree/description/)
 - [1339. 分裂二叉树的最大乘积](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree/description/)
 - [1145. 二叉树着色游戏](https://leetcode.cn/problems/binary-tree-coloring-game/description/)
+- [1530. 好叶子节点对的数量](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/)
