@@ -51,6 +51,16 @@ TreeNode *buildTree(vector<int> &nums) {
   return root;
 }
 
+// 释放二叉树内存
+void freeTree(TreeNode *root) {
+  if (!root)
+    return;
+
+  freeTree(root->left);
+  freeTree(root->right);
+  delete root;
+}
+
 class Solution {
 public:
   bool twoSumBSTs(TreeNode *root1, TreeNode *root2, int target) {
@@ -88,6 +98,10 @@ signed main() {
   TreeNode *tree1 = buildTree(root1), *tree2 = buildTree(root2);
   Solution sol;
   cout << (sol.twoSumBSTs(tree1, tree2, target) ? "true" : "false") << endl;
+
+  // 释放内存
+  freeTree(tree1);
+  freeTree(tree2);
 
   return 0;
 }
