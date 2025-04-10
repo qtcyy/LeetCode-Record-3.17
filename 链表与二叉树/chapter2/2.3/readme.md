@@ -12,3 +12,4 @@
 - [1339. 分裂二叉树的最大乘积](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree/description/)
 - [1145. 二叉树着色游戏](https://leetcode.cn/problems/binary-tree-coloring-game/description/)
 - [1530. 好叶子节点对的数量](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/)
+- [250. 统计同值子树](https://leetcode.cn/problems/count-univalue-subtrees/description/)
