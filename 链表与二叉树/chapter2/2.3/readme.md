@@ -16,3 +16,4 @@
 - [1973. 值等于子节点值之和的节点数量](https://leetcode.cn/problems/count-nodes-equal-to-sum-of-descendants/description/)
 - [663. 均匀树划分](https://leetcode.cn/problems/equal-tree-partition/description/)
 - [1120. 子树的最大平均值](https://leetcode.cn/problems/maximum-average-subtree/description/)
+- [2792. 计算足够大的节点数](https://leetcode.cn/problems/count-nodes-that-are-great-enough/description/)
