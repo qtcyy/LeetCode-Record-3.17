@@ -14,3 +14,4 @@
 - [1530. 好叶子节点对的数量](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/)
 - [250. 统计同值子树](https://leetcode.cn/problems/count-univalue-subtrees/description/)
 - [1973. 值等于子节点值之和的节点数量](https://leetcode.cn/problems/count-nodes-equal-to-sum-of-descendants/description/)
+- [663. 均匀树划分](https://leetcode.cn/problems/equal-tree-partition/description/)
