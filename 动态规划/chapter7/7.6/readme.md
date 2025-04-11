@@ -11,3 +11,4 @@
 - [1223. 掷骰子模拟](https://leetcode.cn/problems/dice-roll-simulation/description/)
 - [1320. 二指输入的的最小距离](https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers/description/)
 - [1575. 统计所有可行路径](https://leetcode.cn/problems/count-all-possible-routes/description/)
+- [3469. 移除所有数组元素的最小代价](https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements/description/)
