@@ -7,3 +7,4 @@
 - [2370. 最长理想子序列](https://leetcode.cn/problems/longest-ideal-subsequence/description/)
 - [3176. 求出最长好子序列 I](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i/description/)
 - [1269. 停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/)
+- [3219. 切蛋糕的最小总开销 II](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-ii/description/)
