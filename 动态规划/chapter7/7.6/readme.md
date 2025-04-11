@@ -9,3 +9,4 @@
 - [1269. 停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/)
 - [3219. 切蛋糕的最小总开销 II](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-ii/description/)
 - [1223. 掷骰子模拟](https://leetcode.cn/problems/dice-roll-simulation/description/)
+- [1320. 二指输入的的最小距离](https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers/description/)
