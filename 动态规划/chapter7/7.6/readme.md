@@ -13,3 +13,4 @@
 - [1575. 统计所有可行路径](https://leetcode.cn/problems/count-all-possible-routes/description/)
 - [3469. 移除所有数组元素的最小代价](https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements/description/)
 - [256. 粉刷房子](https://leetcode.cn/problems/paint-house/description/)
+- [265. 粉刷房子 II](https://leetcode.cn/problems/paint-house-ii/description/)
