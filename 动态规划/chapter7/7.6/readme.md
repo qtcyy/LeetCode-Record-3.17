@@ -14,3 +14,4 @@
 - [3469. 移除所有数组元素的最小代价](https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements/description/)
 - [256. 粉刷房子](https://leetcode.cn/problems/paint-house/description/)
 - [265. 粉刷房子 II](https://leetcode.cn/problems/paint-house-ii/description/)
+- [3339. 查找 K 偶数数组的数量](https://leetcode.cn/problems/find-the-number-of-k-even-arrays/description/)
