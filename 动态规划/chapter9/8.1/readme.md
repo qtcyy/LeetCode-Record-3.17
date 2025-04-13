@@ -20,3 +20,4 @@
 - [2172. 数组的最大与和](https://leetcode.cn/problems/maximum-and-sum-of-array/description/)
 - [2992. 自整除排列的数量](https://leetcode.cn/problems/number-of-self-divisible-permutations/description/)
 - [2403. 杀死所有怪物的最短时间](https://leetcode.cn/problems/minimum-time-to-kill-all-monsters/description/)
+- [1066. 校园自行车分配 II](https://leetcode.cn/problems/campus-bikes-ii/description/)
