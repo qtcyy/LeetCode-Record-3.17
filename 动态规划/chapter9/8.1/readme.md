@@ -12,3 +12,4 @@
 **题目列表**
 
 - [526. 优美的排列](https://leetcode.cn/problems/beautiful-arrangement/description/)
+- [3376. 破解锁的最少时间 I](https://leetcode.cn/problems/minimum-time-to-break-locks-i/description/)
