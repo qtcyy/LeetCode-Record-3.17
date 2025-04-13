@@ -25,3 +25,4 @@ $f[i][j]$表示区间$[i,j]$的最长回文序列
 - [1039. 多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/description/)
 - [730. 统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/description/)
 - [3472. 至多 K 次操作后的最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence-after-at-most-k-operations/description/)
+- [1771. 由子序列构造的最长回文串的长度](https://leetcode.cn/problems/maximize-palindrome-length-from-subsequences/description/)
