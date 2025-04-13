@@ -30,3 +30,4 @@ $f[i][j]$表示区间$[i,j]$的最长回文序列
 - [1216. 验证回文串 III](https://leetcode.cn/problems/valid-palindrome-iii/description/)
 - [1130. 叶值的最小代价生成树](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/description/)
 - [1770. 执行乘法运算的最大分数](https://leetcode.cn/problems/maximum-score-from-performing-multiplication-operations/description/)
+- [1547. 切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/description/)
