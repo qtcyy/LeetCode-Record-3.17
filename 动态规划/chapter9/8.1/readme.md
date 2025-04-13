@@ -19,3 +19,4 @@
 - [1799. N 次操作后的最大分数和](https://leetcode.cn/problems/maximize-score-after-n-operations/description/)
 - [2172. 数组的最大与和](https://leetcode.cn/problems/maximum-and-sum-of-array/description/)
 - [2992. 自整除排列的数量](https://leetcode.cn/problems/number-of-self-divisible-permutations/description/)
+- [2403. 杀死所有怪物的最短时间](https://leetcode.cn/problems/minimum-time-to-kill-all-monsters/description/)
