@@ -14,3 +14,4 @@
 - [526. 优美的排列](https://leetcode.cn/problems/beautiful-arrangement/description/)
 - [3376. 破解锁的最少时间 I](https://leetcode.cn/problems/minimum-time-to-break-locks-i/description/)
 - [1879. 两个数组最小的异或值之和](https://leetcode.cn/problems/minimum-xor-sum-of-two-arrays/description/)
+- [2850. 将石头分散到网格图的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid/description/)
