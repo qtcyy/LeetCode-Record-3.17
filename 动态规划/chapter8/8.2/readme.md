@@ -6,3 +6,4 @@
 - [1770. 执行乘法运算的最大分数](https://leetcode.cn/problems/maximum-score-from-performing-multiplication-operations/description/)
 - [1547. 切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/description/)
 - [1000. 合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/description/)
+- [664. 奇怪的打印机](https://leetcode.cn/problems/strange-printer/description/)
