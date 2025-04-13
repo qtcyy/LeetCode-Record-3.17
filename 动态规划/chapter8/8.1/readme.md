@@ -22,3 +22,4 @@ $f[i][j]$表示区间$[i,j]$的最长回文序列
 **题目列表**
 
 - [516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
+- [1039. 多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/description/)
