@@ -10,3 +10,5 @@
 2. 定义 $f[S]$ 表示可以选的元素（下标）集合为 $S$ 时，和题目有关的最优值。通过枚举当前位置要填的元素（下标）来转移。
 
 **题目列表**
+
+- [526. 优美的排列](https://leetcode.cn/problems/beautiful-arrangement/description/)
