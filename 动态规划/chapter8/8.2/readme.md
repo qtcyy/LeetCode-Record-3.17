@@ -7,3 +7,4 @@
 - [1547. 切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/description/)
 - [1000. 合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/description/)
 - [664. 奇怪的打印机](https://leetcode.cn/problems/strange-printer/description/)
+- [312. 戳气球](https://leetcode.cn/problems/burst-balloons/description/)
