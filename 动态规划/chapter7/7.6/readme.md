@@ -16,3 +16,4 @@
 - [265. 粉刷房子 II](https://leetcode.cn/problems/paint-house-ii/description/)
 - [3339. 查找 K 偶数数组的数量](https://leetcode.cn/problems/find-the-number-of-k-even-arrays/description/)
 - [568. 最大休假天数](https://leetcode.cn/problems/maximum-vacation-days/description/)
+- [1692. 计算分配糖果的不同方式](https://leetcode.cn/problems/count-ways-to-distribute-candies/description/)
