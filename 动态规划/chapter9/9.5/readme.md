@@ -6,3 +6,4 @@
 - [2002. 两个回文子序列长度的最大乘积](https://leetcode.cn/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
 - [473. 火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/description/)
 - [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/description/)
+- [1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/description/)
