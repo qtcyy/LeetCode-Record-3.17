@@ -28,3 +28,4 @@ $f[i][j]$表示区间$[i,j]$的最长回文序列
 - [1771. 由子序列构造的最长回文串的长度](https://leetcode.cn/problems/maximize-palindrome-length-from-subsequences/description/)
 - [1682. 最长回文子序列 II](https://leetcode.cn/problems/longest-palindromic-subsequence-ii/description/)
 - [1216. 验证回文串 III](https://leetcode.cn/problems/valid-palindrome-iii/description/)
+- [1246. 删除回文子数组](https://leetcode.cn/problems/palindrome-removal/description/)

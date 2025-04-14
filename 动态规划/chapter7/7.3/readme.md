@@ -10,3 +10,4 @@
 - [3409. 最长相邻绝对差递减子序列](https://leetcode.cn/problems/longest-subsequence-with-decreasing-adjacent-difference/description/)
 - [1048. 最长字符串链](https://leetcode.cn/problems/longest-string-chain/description/)
 - [368. 最大整除子集](https://leetcode.cn/problems/largest-divisible-subset/description/)
+- [2501. 数组中最长的方波](https://leetcode.cn/problems/longest-square-streak-in-an-array/description/)
