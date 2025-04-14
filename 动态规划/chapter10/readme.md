@@ -9,3 +9,7 @@
 - [233. 数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/description/)
 - [600. 不含连续 1 的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/description/)
 - [1012. 至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/description/)
+
+**其他题目**
+
+- [LUOGU-P8764](https://www.luogu.com.cn/problem/P8764)
