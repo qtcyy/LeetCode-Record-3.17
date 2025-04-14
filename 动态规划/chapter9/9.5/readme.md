@@ -1,0 +1,5 @@
+# 9.5 其他状压 DP
+
+**题目列表**
+
+- [698. 划分为 k 个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/)
