@@ -4,6 +4,7 @@
 
 **题目列表**
 
+- [788. 旋转数字](https://leetcode.cn/problems/rotated-digits/description/)
 - [2376. 统计特殊整数](https://leetcode.cn/problems/count-special-integers/description/)
 - [902. 最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/description/)
 - [233. 数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/description/)
@@ -13,3 +14,4 @@
 **其他题目**
 
 - [LUOGU-P8764](https://www.luogu.com.cn/problem/P8764)
+- [P2518 [HAOI2010] 计数](https://www.luogu.com.cn/problem/P2518)
