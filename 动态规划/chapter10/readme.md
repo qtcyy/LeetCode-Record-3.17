@@ -8,3 +8,4 @@
 - [902. 最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/description/)
 - [233. 数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/description/)
 - [600. 不含连续 1 的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/description/)
+- [1012. 至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/description/)
