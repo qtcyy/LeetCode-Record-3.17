@@ -20,6 +20,7 @@
 - [2827. 范围中美丽整数的数目](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range/description/)
 - [2801. 统计范围内的步进数字数目](https://leetcode.cn/problems/count-stepping-numbers-in-range/description/)
 - [3519. 统计逐位非递减的整数](https://leetcode.cn/problems/count-numbers-with-non-decreasing-digits/description/)
+- [3490. 统计美丽整数的数目](https://leetcode.cn/problems/count-beautiful-numbers/description/)
 
 **其他题目**
 
@@ -28,3 +29,4 @@
 - [P4999](https://www.luogu.com.cn/problem/P4999)
 - [P6218](https://www.luogu.com.cn/problem/P6218)
 - [P4317](https://www.luogu.com.cn/problem/P4317)
+- [P3107](https://www.luogu.com.cn/problem/P3107)
