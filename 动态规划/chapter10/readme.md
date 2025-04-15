@@ -14,6 +14,7 @@
 - [3007. 价值和小于等于 K 的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
 - [2999. 统计强大整数的数目](https://leetcode.cn/problems/count-the-number-of-powerful-integers/description/)
 - [1215. 步进数](https://leetcode.cn/problems/stepping-numbers/description/)
+- [2719. 统计整数数目](https://leetcode.cn/problems/count-of-integers/description/)
 
 **其他题目**
 
