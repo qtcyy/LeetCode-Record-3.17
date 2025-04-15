@@ -17,6 +17,7 @@
 - [1215. 步进数](https://leetcode.cn/problems/stepping-numbers/description/)
 - [2719. 统计整数数目](https://leetcode.cn/problems/count-of-integers/description/)
 - [1067. 范围内的数字计数](https://leetcode.cn/problems/digit-count-in-range/description/)
+- [2827. 范围中美丽整数的数目](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range/description/)
 
 **其他题目**
 
