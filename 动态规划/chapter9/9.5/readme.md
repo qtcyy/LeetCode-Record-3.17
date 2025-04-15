@@ -7,3 +7,7 @@
 - [473. 火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/description/)
 - [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/description/)
 - [1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/description/)
+
+**其他题目**
+
+- [luogu-P2915](https://www.luogu.com.cn/problem/P2915)
