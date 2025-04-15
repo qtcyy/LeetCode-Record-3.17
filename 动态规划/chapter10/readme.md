@@ -12,6 +12,7 @@
 - [1012. 至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/description/)
 - [面试题 17.06. 2 出现的次数](https://leetcode.cn/problems/number-of-2s-in-range-lcci/description/)
 - [3007. 价值和小于等于 K 的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+- [1215. 步进数](https://leetcode.cn/problems/stepping-numbers/description/)
 
 **其他题目**
 
