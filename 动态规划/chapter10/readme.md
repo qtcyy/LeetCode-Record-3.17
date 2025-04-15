@@ -19,8 +19,10 @@
 - [1067. 范围内的数字计数](https://leetcode.cn/problems/digit-count-in-range/description/)
 - [2827. 范围中美丽整数的数目](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range/description/)
 - [2801. 统计范围内的步进数字数目](https://leetcode.cn/problems/count-stepping-numbers-in-range/description/)
+- [3519. 统计逐位非递减的整数](https://leetcode.cn/problems/count-numbers-with-non-decreasing-digits/description/)
 
 **其他题目**
 
 - [LUOGU-P8764](https://www.luogu.com.cn/problem/P8764)
 - [P2518 [HAOI2010] 计数](https://www.luogu.com.cn/problem/P2518)
+- [P4999](https://www.luogu.com.cn/problem/P4999)
