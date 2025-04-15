@@ -4,6 +4,7 @@
 
 **题目列表**
 
+- [1399. 统计最大组的数目](https://leetcode.cn/problems/count-largest-group/description/)
 - [788. 旋转数字](https://leetcode.cn/problems/rotated-digits/description/)
 - [2376. 统计特殊整数](https://leetcode.cn/problems/count-special-integers/description/)
 - [902. 最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/description/)
@@ -15,6 +16,7 @@
 - [2999. 统计强大整数的数目](https://leetcode.cn/problems/count-the-number-of-powerful-integers/description/)
 - [1215. 步进数](https://leetcode.cn/problems/stepping-numbers/description/)
 - [2719. 统计整数数目](https://leetcode.cn/problems/count-of-integers/description/)
+- [1067. 范围内的数字计数](https://leetcode.cn/problems/digit-count-in-range/description/)
 
 **其他题目**
 
