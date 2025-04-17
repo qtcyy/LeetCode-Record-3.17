@@ -10,5 +10,6 @@
 
 **其他题目**
 
+- [P1171 售货员的难题](https://www.luogu.com.cn/problem/P1171)
 - [luogu-P2915](https://www.luogu.com.cn/problem/P2915)
 - [luogu-P3052](https://www.luogu.com.cn/problem/P3052)
