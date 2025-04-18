@@ -10,3 +10,4 @@
 - [1689. 十-二进制数的最少数目](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 - [2549. 统计桌面上的不同数字](https://leetcode.cn/problems/count-distinct-numbers-on-board/description/)
 - [521. 最长特殊序列 Ⅰ](https://leetcode.cn/problems/longest-uncommon-subsequence-i/description/)
+- [3227. 字符串元音游戏](https://leetcode.cn/problems/vowels-game-in-a-string/description/)
