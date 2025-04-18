@@ -5,3 +5,4 @@
 **题目列表**
 
 - [1449. 数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/description/)
+- [1092. 最短公共超序列](https://leetcode.cn/problems/shortest-common-supersequence/description/)
