@@ -24,3 +24,4 @@
 - [2237](https://leetcode.cn/problems/count-positions-on-street-with-required-brightness/description/). 计算街道上满足所需亮度的位置数量
 - [3224. 使差值相等的最少数组改动次数](https://leetcode.cn/problems/minimum-array-changes-to-make-differences-equal/description/)
 - [2251. 花期内花的数目](https://leetcode.cn/problems/number-of-flowers-in-full-bloom/description/)
+- [2772. 使数组中的所有元素都等于零](https://leetcode.cn/problems/apply-operations-to-make-all-array-elements-equal-to-zero/description/)
