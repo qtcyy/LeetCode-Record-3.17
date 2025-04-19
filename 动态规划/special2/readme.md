@@ -7,3 +7,4 @@
 **题目列表**
 
 - [724. 寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/description/)
+- [2270. 分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array/description/)
