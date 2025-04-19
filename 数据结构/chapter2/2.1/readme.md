@@ -25,3 +25,4 @@
 - [3224. 使差值相等的最少数组改动次数](https://leetcode.cn/problems/minimum-array-changes-to-make-differences-equal/description/)
 - [2251. 花期内花的数目](https://leetcode.cn/problems/number-of-flowers-in-full-bloom/description/)
 - [2772. 使数组中的所有元素都等于零](https://leetcode.cn/problems/apply-operations-to-make-all-array-elements-equal-to-zero/description/)
+- [3229. 使数组等于目标数组所需的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-equal-to-target/description/)
