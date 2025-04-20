@@ -28,3 +28,4 @@
 - [2167. 移除所有载有违禁货物车厢所需的最少时间](https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)
 - [2484. 统计回文子序列数目](https://leetcode.cn/problems/count-palindromic-subsequences/description/)
 - [2163. 删除元素后和的最小差值](https://leetcode.cn/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
+- [2565. 最少得分子序列](https://leetcode.cn/problems/subsequence-with-the-minimum-score/description/)
