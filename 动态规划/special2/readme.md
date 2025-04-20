@@ -15,3 +15,4 @@
 - [2483. 商店的最少代价](https://leetcode.cn/problems/minimum-penalty-for-a-shop/description/)
 - [1525. 字符串的好分割数目](https://leetcode.cn/problems/number-of-good-ways-to-split-a-string/description/)
 - [1031. 两个非重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays/description/)
+- [689. 三个无重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
