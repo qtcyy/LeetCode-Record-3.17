@@ -14,3 +14,4 @@
 - [2419. 按位与最大的最长子数组](https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/description/)
 - [3424. 将数组变相同的最小代价](https://leetcode.cn/problems/minimum-cost-to-make-arrays-identical/description/)
 - [1992. 找到所有的农场组](https://leetcode.cn/problems/find-all-groups-of-farmland/description/)
+- [1007. 行相等的最少多米诺旋转](https://leetcode.cn/problems/minimum-domino-rotations-for-equal-row/description/)
