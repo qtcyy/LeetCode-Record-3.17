@@ -16,3 +16,4 @@
 - [1992. 找到所有的农场组](https://leetcode.cn/problems/find-all-groups-of-farmland/description/)
 - [1007. 行相等的最少多米诺旋转](https://leetcode.cn/problems/minimum-domino-rotations-for-equal-row/description/)
 - [2811. 判断是否能拆分数组](https://leetcode.cn/problems/check-if-it-is-possible-to-split-array/description/)
+- [3207. 与敌人战斗后的最大分数](https://leetcode.cn/problems/maximum-points-after-enemy-battles/description/)
