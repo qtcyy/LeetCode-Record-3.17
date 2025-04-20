@@ -27,3 +27,4 @@
 - [2906. 构造乘积矩阵](https://leetcode.cn/problems/product-of-array-except-self/description/)
 - [2167. 移除所有载有违禁货物车厢所需的最少时间](https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)
 - [2484. 统计回文子序列数目](https://leetcode.cn/problems/count-palindromic-subsequences/description/)
+- [2163. 删除元素后和的最小差值](https://leetcode.cn/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
