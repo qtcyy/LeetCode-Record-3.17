@@ -25,3 +25,4 @@
 - [2680. 最大或值](https://leetcode.cn/problems/maximum-or/description/)
 - [238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/)
 - [2906. 构造乘积矩阵](https://leetcode.cn/problems/product-of-array-except-self/description/)
+- [2167. 移除所有载有违禁货物车厢所需的最少时间](https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)
