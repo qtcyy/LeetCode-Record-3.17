@@ -10,3 +10,4 @@
 - [2270. 分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array/description/)
 - [2256. 最小平均差](https://leetcode.cn/problems/minimum-average-difference/description/)
 - [2012. 数组美丽值求和](https://leetcode.cn/problems/sum-of-beauty-in-the-array/description/)
+- [1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/description/)
