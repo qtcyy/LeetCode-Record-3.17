@@ -26,3 +26,4 @@
 - [238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/)
 - [2906. 构造乘积矩阵](https://leetcode.cn/problems/product-of-array-except-self/description/)
 - [2167. 移除所有载有违禁货物车厢所需的最少时间](https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)
+- [2484. 统计回文子序列数目](https://leetcode.cn/problems/count-palindromic-subsequences/description/)
