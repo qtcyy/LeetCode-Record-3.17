@@ -12,3 +12,4 @@
 - [521. 最长特殊序列 Ⅰ](https://leetcode.cn/problems/longest-uncommon-subsequence-i/description/)
 - [3227. 字符串元音游戏](https://leetcode.cn/problems/vowels-game-in-a-string/description/)
 - [2419. 按位与最大的最长子数组](https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/description/)
+- [3424. 将数组变相同的最小代价](https://leetcode.cn/problems/minimum-cost-to-make-arrays-identical/description/)
