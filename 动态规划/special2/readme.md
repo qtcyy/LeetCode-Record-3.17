@@ -12,3 +12,4 @@
 - [2012. 数组美丽值求和](https://leetcode.cn/problems/sum-of-beauty-in-the-array/description/)
 - [1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/description/)
 - [845. 数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/description/)
+- [2483. 商店的最少代价](https://leetcode.cn/problems/minimum-penalty-for-a-shop/description/)
