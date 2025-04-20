@@ -13,3 +13,4 @@
 - [1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/description/)
 - [845. 数组中的最长山脉](https://leetcode.cn/problems/longest-mountain-in-array/description/)
 - [2483. 商店的最少代价](https://leetcode.cn/problems/minimum-penalty-for-a-shop/description/)
+- [1525. 字符串的好分割数目](https://leetcode.cn/problems/number-of-good-ways-to-split-a-string/description/)
