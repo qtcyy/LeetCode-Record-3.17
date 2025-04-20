@@ -20,3 +20,4 @@
 - [2100. 适合野炊的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/description/)
 - [926. 将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/description/)
 - [334. 递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/description/)
+- [1653. 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/description/)
