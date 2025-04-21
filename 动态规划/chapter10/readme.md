@@ -30,3 +30,4 @@
 - [P6218](https://www.luogu.com.cn/problem/P6218)
 - [P4317](https://www.luogu.com.cn/problem/P4317)
 - [P3107](https://www.luogu.com.cn/problem/P3107)
+- [P2657 [SCOI2009] windy 数](https://www.luogu.com.cn/problem/P2657)
