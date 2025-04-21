@@ -31,3 +31,4 @@
 - [P4317](https://www.luogu.com.cn/problem/P4317)
 - [P3107](https://www.luogu.com.cn/problem/P3107)
 - [P2657 [SCOI2009] windy 数](https://www.luogu.com.cn/problem/P2657)
+- [P11557 [ROIR 2016] 有趣数字 (Day 2)](https://www.luogu.com.cn/problem/P11557)
