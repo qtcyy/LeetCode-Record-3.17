@@ -6,3 +6,4 @@
 - [1519. 子树中标签相同的节点数](https://leetcode.cn/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 - [2973. 树中每个节点放置的金币数目](https://leetcode.cn/problems/find-number-of-coins-to-place-in-tree-nodes/description/)
 - [1273. 删除树节点](https://leetcode.cn/problems/delete-tree-nodes/description/)
+- [3004. 相同颜色的最大子树](https://leetcode.cn/problems/maximum-subtree-of-the-same-color/description/)
