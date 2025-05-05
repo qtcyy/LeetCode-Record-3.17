@@ -12,3 +12,4 @@
 - [2317. 操作后的最大异或和](https://leetcode.cn/problems/maximum-xor-after-operations/description/)
 - [2564. 子字符串异或查询](https://leetcode.cn/problems/substring-xor-queries/description/)
 - [1734. 解码异或后的排列](https://leetcode.cn/problems/decode-xored-permutation/description/)
+- [2857. 统计距离为 k 的点对](https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/description/)
