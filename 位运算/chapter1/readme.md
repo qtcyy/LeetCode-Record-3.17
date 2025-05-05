@@ -8,3 +8,4 @@
 - [868. 二进制间距](https://leetcode.cn/problems/binary-gap/description/)
 - [2917. 找出数组中的 K-or 值](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/)
 - [693. 交替位二进制数](https://leetcode.cn/problems/binary-number-with-alternating-bits/description/)
+- [2657. 找到两个数组的前缀公共数组](https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/description/)
