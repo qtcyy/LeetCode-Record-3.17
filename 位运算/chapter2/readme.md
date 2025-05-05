@@ -10,3 +10,4 @@
 - [2997. 使数组异或和等于 K 的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)
 - [1442. 形成两个异或相等数组的三元组数目](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/)
 - [2317. 操作后的最大异或和](https://leetcode.cn/problems/maximum-xor-after-operations/description/)
+- [2564. 子字符串异或查询](https://leetcode.cn/problems/substring-xor-queries/description/)
