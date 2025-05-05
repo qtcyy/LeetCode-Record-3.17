@@ -5,3 +5,4 @@
 - [1486. 数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/description/)
 - [1720. 解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/description/)
 - [2433. 找出前缀异或的原始数组](https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/description/)
+- [2683. 相邻值的按位异或](https://leetcode.cn/problems/neighboring-bitwise-xor/description/)
