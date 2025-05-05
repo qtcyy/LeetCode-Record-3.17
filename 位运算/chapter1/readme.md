@@ -6,3 +6,4 @@
 - [3226. 使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/description/)
 - [1009. 十进制整数的反码](https://leetcode.cn/problems/complement-of-base-10-integer/description/)
 - [868. 二进制间距](https://leetcode.cn/problems/binary-gap/description/)
+- [2917. 找出数组中的 K-or 值](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/)
