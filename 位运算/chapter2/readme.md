@@ -14,3 +14,4 @@
 - [1734. 解码异或后的排列](https://leetcode.cn/problems/decode-xored-permutation/description/)
 - [2857. 统计距离为 k 的点对](https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/description/)
 - [2429. 最小异或](https://leetcode.cn/problems/minimize-xor/description/)
+- [2527. 查询数组异或美丽值](https://leetcode.cn/problems/find-xor-beauty-of-array/description/)
