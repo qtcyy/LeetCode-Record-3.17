@@ -9,3 +9,4 @@
 - [面试题 16.19. 水域大小](https://leetcode.cn/problems/pond-sizes-lcci/description/)
 - [2658. 网格图中鱼的最大数目](https://leetcode.cn/problems/maximum-number-of-fish-in-a-grid/description/)
 - [2684. 矩阵中移动的最大次数](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/description/)
+- [1254. 统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/description/)
