@@ -10,3 +10,4 @@
 - [2658. 网格图中鱼的最大数目](https://leetcode.cn/problems/maximum-number-of-fish-in-a-grid/description/)
 - [2684. 矩阵中移动的最大次数](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/description/)
 - [1254. 统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/description/)
+- [1034. 边界着色](https://leetcode.cn/problems/coloring-a-border/description/)
