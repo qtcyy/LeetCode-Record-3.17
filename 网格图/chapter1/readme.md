@@ -11,3 +11,4 @@
 - [2684. 矩阵中移动的最大次数](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/description/)
 - [1254. 统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/description/)
 - [1034. 边界着色](https://leetcode.cn/problems/coloring-a-border/description/)
+- [2061. 扫地机器人清扫过的空间个数](https://leetcode.cn/problems/number-of-spaces-cleaning-robot-cleaned/description/)
