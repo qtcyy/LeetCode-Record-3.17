@@ -24,3 +24,4 @@
 - [1975. 最大方阵和](https://leetcode.cn/problems/maximum-matrix-sum/description/)
 - [3282. 到达数组末尾的最大得分](https://leetcode.cn/problems/reach-end-of-array-with-max-score/description/)
 - [2712. 使所有字符相等的最小成本](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal/description/)
+- [3125. 使得按位与结果为 0 的最大数字](https://leetcode.cn/problems/maximum-number-that-makes-result-of-bitwise-and-zero/description/)
