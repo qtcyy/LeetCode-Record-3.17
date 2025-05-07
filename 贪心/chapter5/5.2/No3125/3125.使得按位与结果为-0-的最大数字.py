@@ -8,12 +8,7 @@
 # @lc code=start
 class Solution:
     def maxNumber(self, n: int) -> int:
-        ans = 0
-        print(n.bit_length())
-        for i in range(n.bit_length()):
-            if n >> i & 1 == 0:
-                ans |= 1 << i
-        return ans
+        return (1 << (n.bit_length() - 1)) - 1
 
 
 # @lc code=end
