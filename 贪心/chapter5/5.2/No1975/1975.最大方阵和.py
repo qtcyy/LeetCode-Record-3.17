@@ -10,21 +10,18 @@ from typing import List
 
 class Solution:
     def maxMatrixSum(self, matrix: List[List[int]]) -> int:
-        nums = []
         res = 0
-        has = False
+        mn = 2**30
+        cnt = 0
         for row in matrix:
             for x in row:
-                if x == 0:
-                    has = True
+                res += abs(x)
+                mn = min(mn, abs(x))
                 if x < 0:
-                    nums.append(-x)
-                else:
-                    res += x
-        if len(nums) % 2 and not has:
-            res += sum(nums) - 2 * min(nums)
-        else:
-            res += sum(nums)
+                    cnt += 1
+        if cnt % 2 != 0:
+            res -= 2 * mn
+
         return res
 
 
