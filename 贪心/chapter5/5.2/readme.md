@@ -20,3 +20,4 @@
 - [2546. 执行逐位运算使字符串相等](https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal/description/)
 - [3471. 找出最大的几近缺失整数](https://leetcode.cn/problems/find-the-largest-almost-missing-integer/description/)
 - [2860. 让所有学生保持开心的分组方法数](https://leetcode.cn/problems/happy-students/description/)
+- [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/description/)
