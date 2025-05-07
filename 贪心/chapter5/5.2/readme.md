@@ -22,3 +22,4 @@
 - [2860. 让所有学生保持开心的分组方法数](https://leetcode.cn/problems/happy-students/description/)
 - [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/description/)
 - [1975. 最大方阵和](https://leetcode.cn/problems/maximum-matrix-sum/description/)
+- [3282. 到达数组末尾的最大得分](https://leetcode.cn/problems/reach-end-of-array-with-max-score/description/)
