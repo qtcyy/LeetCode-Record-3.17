@@ -6,3 +6,4 @@
 - [1558. 得到目标数组的最少函数调用次数](https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array/description/)
 - [554. 砖墙](https://leetcode.cn/problems/brick-wall/description/)
 - [2718. 查询后矩阵的和](https://leetcode.cn/problems/sum-of-matrix-after-queries/description/)
+- [3419. 图的最大边权的最小值](https://leetcode.cn/problems/minimize-the-maximum-edge-weight-of-graph/description/)
