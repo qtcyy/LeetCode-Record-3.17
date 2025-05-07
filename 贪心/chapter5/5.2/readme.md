@@ -21,3 +21,4 @@
 - [3471. 找出最大的几近缺失整数](https://leetcode.cn/problems/find-the-largest-almost-missing-integer/description/)
 - [2860. 让所有学生保持开心的分组方法数](https://leetcode.cn/problems/happy-students/description/)
 - [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/description/)
+- [1975. 最大方阵和](https://leetcode.cn/problems/maximum-matrix-sum/description/)
