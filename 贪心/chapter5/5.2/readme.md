@@ -23,3 +23,4 @@
 - [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/description/)
 - [1975. 最大方阵和](https://leetcode.cn/problems/maximum-matrix-sum/description/)
 - [3282. 到达数组末尾的最大得分](https://leetcode.cn/problems/reach-end-of-array-with-max-score/description/)
+- [2712. 使所有字符相等的最小成本](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal/description/)
