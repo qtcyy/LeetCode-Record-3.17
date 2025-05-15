@@ -5,3 +5,6 @@
 - [7. 整数反转](https://leetcode.cn/problems/reverse-integer/description/)
 - [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/description/)
 - [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/)
+- [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/description/)
+- [47. 全排列 II](https://leetcode.cn/problems/permutations-ii/description/)
+- [46. 全排列](https://leetcode.cn/problems/permutations/description/)
