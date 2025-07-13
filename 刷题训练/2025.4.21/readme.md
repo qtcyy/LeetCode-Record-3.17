@@ -19,3 +19,4 @@
 - [75. 颜色分类](https://leetcode.cn/problems/sort-colors/description/?envType=problem-list-v2&envId=sorting)
 - [539. 最小时间差](https://leetcode.cn/problems/minimum-time-difference/description/?envType=problem-list-v2&envId=sorting)
 - [581. 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/description/?envType=problem-list-v2&envId=sorting)
+- [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/description/)
