@@ -22,3 +22,4 @@
 - [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/description/)
 - [37. 解数独](https://leetcode.cn/problems/sudoku-solver/description/)
 - [165. 比较版本号](https://leetcode.cn/problems/compare-version-numbers/description/)
+- [371. 两整数之和](https://leetcode.cn/problems/sum-of-two-integers/description/)
