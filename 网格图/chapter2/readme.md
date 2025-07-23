@@ -7,3 +7,4 @@
 - [1162. 地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/description/)
 - [994. 腐烂的橘子](https://leetcode.cn/problems/rotting-oranges/description/)
 - [1765. 地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/description/)
+- [934. 最短的桥](https://leetcode.cn/problems/shortest-bridge/description/)
