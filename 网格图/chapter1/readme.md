@@ -13,3 +13,4 @@
 - [1034. 边界着色](https://leetcode.cn/problems/coloring-a-border/description/)
 - [2061. 扫地机器人清扫过的空间个数](https://leetcode.cn/problems/number-of-spaces-cleaning-robot-cleaned/description/)
 - [1905. 统计子岛屿](https://leetcode.cn/problems/count-sub-islands/description/)
+- [1391. 检查网格中是否存在有效路径](https://leetcode.cn/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
